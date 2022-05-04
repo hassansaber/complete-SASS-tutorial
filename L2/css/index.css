@@ -1,4 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+.test {
+  margin: 10px;
+}
+
 * {
   color: inherit;
   margin: 0;
@@ -170,15 +174,15 @@ img {
 }
 
 .text-secondary {
-  color: #1ac888;
+  color: indigo;
 }
 
 .text-hover-secondary:hover {
-  color: #1ac888;
+  color: indigo;
 }
 
 .bg-secondary {
-  background-color: #1ac888;
+  background-color: indigo;
 }
 
 .text-error {
@@ -333,10 +337,10 @@ img {
   border: 0;
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
-  background-color: #1ac888;
+  background-color: indigo;
 }
 .btn-secondary:hover {
-  background-color: #1ddf97;
+  background-color: #5a009c;
 }
 
 .btn-outlined-secondary {
@@ -347,10 +351,10 @@ img {
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
   background-color: #fff;
-  border: 1px solid #1ac888;
+  border: 1px solid indigo;
 }
 .btn-outlined-secondary:hover {
-  background-color: #1ac888;
+  background-color: indigo;
 }
 
 .btn-error {
@@ -439,7 +443,7 @@ img {
 }
 
 .navbar-secondary {
-  background-color: #1ac888;
+  background-color: indigo;
 }
 
 .p-0 {
